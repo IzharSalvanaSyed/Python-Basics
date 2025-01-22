@@ -36,6 +36,7 @@ print(7+10)
 17`
 
 ## Python Calculator <a name="calculator">
+Using your (Code) and type  
 1`# Addition`  
 2`print(4+5)`  
 3  
@@ -65,3 +66,17 @@ Run the code and see the output
 0  
 15  
 5.0`  
+
+## Variables and Types <a name="vartypes">
+A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc..
+
+### Variables
+- Specific, case-sensitive name
+- Call up value through a variable name
+
+### Calculate BMI with Variables
+if we put Varibles `height` and have it equal  `1.79` and another variable `weight` and have that equal `68.7`. If we recall `height` it will give us back the value of `1.79`1.79`.  
+
+To calculate BMI we need to use the Equation `BMI = Weight / height^2`.  
+`68.7 / 1.79**2    weight / height**2`  
+`21.4413              21.4413`
