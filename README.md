@@ -19,11 +19,11 @@ I will start to learn Python for Data science. Python can be used for general pu
 
 ## First Python Code <a name="first">
 Using your (Code) and type  
-1`# Example, do not modify!`
-2`print(5 / 8)`
-3
-4`# Print the sum of 7 and 10`
-5`print(7+10)`
+1`# Example, do not modify!`  
+2`print(5 / 8)`  
+3  
+4`# Print the sum of 7 and 10`  
+5`print(7+10)`  
 
 Run the code and see the output  
 
