@@ -13,19 +13,19 @@ Exploring the basic concepts of Python. Discover how to use Python both interact
 8. [Operations With Other Types](#othertypes)
 
 ## Hello <a name="hello">
-I will start to learn Python for Data science. Python can be used for general purposes to build anything. It is open source and can have many packages to help you with your needs.
+I will start to learn Python for Data science. Python can be used for general purposes to build anything. It is open source and can have many packages to help you with your needs.  
 
-- Write more about python here
+- Write more about python here  
 
 ## First Python Code <a name="first">
-Using your (Code) and type 
+Using your (Code) and type  
 1`# Example, do not modify!`
 2`print(5 / 8)`
 3
 4`# Print the sum of 7 and 10`
 5`print(7+10)`
 
-Run the code and see the output
+Run the code and see the output  
 
 `# Example, do not modify!
 print(5 / 8)`
