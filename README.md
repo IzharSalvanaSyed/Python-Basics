@@ -75,8 +75,14 @@ A Python variable is a reserved memory location to store values. In other words,
 - Call up value through a variable name
 
 ### Calculate BMI with Variables
-if we put Varibles `height` and have it equal  `1.79` and another variable `weight` and have that equal `68.7`. If we recall `height` it will give us back the value of `1.79`1.79`.  
+if we put Varibles `height` and have it equal  `1.79` and another variable `weight` and have that equal `68.7`. If we recall `height` it will give us back the value of `1.79`.  
 
 To calculate BMI we need to use the Equation `BMI = Weight / height^2`.  
 `68.7 / 1.79**2  |  weight / height**2`  
 `   21.4413      |     21.4413`
+
+Now we can just create a Variable called `bmi`.  
+`bmi = weight / height**2`  
+When we recall this variable `bmi` it will take our `height` and `weight` variables already give us the answer of the BMI equaition we created as a Varible taking in our other Variables we created
+`bmi`  
+`21.4413`  
