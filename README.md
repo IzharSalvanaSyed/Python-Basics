@@ -106,8 +106,8 @@ Use type() to print the resulting type of total_savings.
 5 `____`  
 6 `print(total_savings)`  
 7  
-8  `# Print the type of total_savings`
-9  `print(____)`
+8  `# Print the type of total_savings`  
+9  `print(____)`  
 
 Answer  
 1 `savings = 100`  
