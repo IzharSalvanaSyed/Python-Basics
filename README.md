@@ -95,6 +95,10 @@ Time for you to test this out.In Python, variables come in different types. You 
 
 Different types behave differently in Python. For instance, when you add two strings together, the behavior will differ from adding two integers or two booleans.  
 
+**Instructions 1**  
+Add savings and new_savings and assign it to total_savings.  
+Use type() to print the resulting type of total_savings.  
+
 1 `savings = 100`  
 2 `new_savings = 40`  
 3  
@@ -115,6 +119,38 @@ Answer
 7  
 8  `# Print the type of total_savings`
 9  `print(type(total_savings))`  
+
+**Instructions 2**  
+Calculate the sum of intro and intro and assign the result to doubleintro. 
+Print out doubleintro.  
+
+Sample  
+1 `intro = "Hello! How are you?"`   
+2   
+3 `# Assign sum of intro and intro to doubleintro`   
+4 `____`   
+5  
+6 `# Print out doubleintro`    
+7 `print(____)`    
+
+Answer
+1 `intro = "Hello! How are you?"`   
+2   
+3 `# Assign sum of intro and intro to doubleintro`   
+4 `doubleintro = intro + intro`   
+5  
+6 `# Print out doubleintro`    
+7 `print(doubleintro)`    
+
+output  
+`intro = "Hello! How are you?"`  
+  
+`# Assign sum of intro and intro to doubleintro`  
+`doubleintro = intro + intro`  
+  
+`# Print out doubleintro`  
+`print(doubleintro)`  
+`Hello! How are you?Hello! How are you?`  
 
 ## Other Types <a name="types">
 In Python, variables come in different types. You can check the type of a variable by using the `type()` function. For example, to see the type of a variable named `a`, you would execute: `type(a)`.  
