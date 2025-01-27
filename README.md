@@ -11,6 +11,7 @@ Exploring the basic concepts of Python. Discover how to use Python both interact
 6. [Calculations With Variables](#calcvar)
 7. [Other Variable Types](#vartypes)
 8. [Operations With Other Types](#othertypes)
+9. [Other Types](#types)
 
 ## Hello <a name="hello">
 I will start to learn Python for Data science. Python can be used for general purposes to build anything. It is open source and can have many packages to help you with your needs.  
@@ -51,21 +52,21 @@ Using your (Code) and type
 
 Run the code and see the output  
 
-`# Addition`  
-`print(4+5)`  
-  
-`# Subtraction`  
-`print(5-5)`  
-  
-`# Multiplication`  
-`print(3*5)`  
-  
-`# Division`  
-`print(10/2)`  
-`9  
-0  
+1 `# Addition`  
+2 `print(4+5)`  
+3  
+4 `# Subtraction`  
+5 `print(5-5)`  
+6  
+7 `# Multiplication`  
+8 `print(3*5)`  
+9  
+10 `# Division`  
+11 `print(10/2)`  
+12 `9  `
+13 `0  `
 15  
-5.0`  
+16 `5.0`  
 
 ## Variables and Types <a name="vartypes">
 A Python variable is a reserved memory location to store values. In other words, a variable in a python program gives data to the computer for processing. Every value in Python has a datatype. Different data types in Python are Numbers, List, Tuple, Strings, Dictionary, etc..
@@ -86,3 +87,62 @@ Now we can just create a Variable called `bmi`.
 When we recall this variable `bmi` it will take our `height` and `weight` variables already give us the answer of the BMI equaition we created as a Varible taking in our other Variables we created
 `bmi`  
 `21.4413`  
+
+## Operations With Other Types <a name="othertypes">
+Variables come in different types in Python. You can see the type of a variable by using type(). For example, to see type of a, execute: type(a).  
+Different types behave differently in Python. When you sum two strings, for example, you'll get different behavior than when you sum two integers or two booleans.  
+Time for you to test this out.In Python, variables come in different types. You can check the type of a variable by using the `type()` function. For example, to see the type of a variable named `a`, you would execute: `type(a)`.  
+
+Different types behave differently in Python. For instance, when you add two strings together, the behavior will differ from adding two integers or two booleans.  
+
+1 `savings = 100`  
+2 `new_savings = 40`  
+3  
+4 `# Calculate total_savings using savings and new_savings`  
+5 `____`  
+6 `print(total_savings)`  
+7  
+8  `# Print the type of total_savings`
+9  `print(____)`
+
+Answer
+1 `savings = 100`  
+2 `new_savings = 40`  
+3  
+4 `# Calculate total_savings using savings and new_savings`  
+5 `total_savings = savings + new_savings`  
+6 `print(total_savings)`  
+7  
+8  `# Print the type of total_savings`
+9  `print(type(total_savings))`  
+
+## Other Types <a name="types">
+In Python, variables come in different types. You can check the type of a variable by using the `type()` function. For example, to see the type of a variable named `a`, you would execute: `type(a)`.  
+
+Different types behave differently in Python. For instance, when you add two strings together, the behavior will differ from adding two integers or two booleans.  
+
+instructions:
+
+- Create a new float, half, with the value 0.5.  
+- Create a new string, intro, with the value "Hello! How are you?".  
+- Create a new boolean, is_good, with the value True.  
+
+**Script**
+1 `# Create a variable half ` 
+2 `half = 0.5  `
+3  
+4 `# Create a variable intro ` 
+5 `intro = "Hello! How are you?"`  
+6  
+7 `# Create a variable is_good ` 
+8 `is_good = True  `
+
+**output**
+` # Create a variable half`  
+` half = 0.5` 
+  
+` # Create a variable intro  
+intro = "Hello! How are you?"` 
+
+` # Create a variable is_good  
+is_good = True` 
