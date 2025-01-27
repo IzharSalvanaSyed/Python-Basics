@@ -109,7 +109,7 @@ Use type() to print the resulting type of total_savings.
 8  `# Print the type of total_savings`
 9  `print(____)`
 
-Answer
+Answer  
 1 `savings = 100`  
 2 `new_savings = 40`  
 3  
