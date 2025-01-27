@@ -164,21 +164,21 @@ instructions:
 - Create a new boolean, is_good, with the value True.  
 
 **Script**  
-1 `# Create a variable half `  
-2 `half = 0.5  `  
+1 `# Create a variable half `    
+2 `half = 0.5  `    
 3  
-4 `# Create a variable intro `  
-5 `intro = "Hello! How are you?"`   
-6   
-7 `# Create a variable is_good `  
-8 `is_good = True  ` 
+4 `# Create a variable intro `    
+5 `intro = "Hello! How are you?"`     
+6     
+7 `# Create a variable is_good `    
+8 `is_good = True  `   
 
 **output**  
 ` # Create a variable half`   
 ` half = 0.5`  
-   
-` # Create a variable intro   
-intro = "Hello! How are you?"`  
-  
-` # Create a variable is_good  
-is_good = True`  
+     
+` # Create a variable intro     
+intro = "Hello! How are you?"`    
+    
+` # Create a variable is_good    
+is_good = True`    
