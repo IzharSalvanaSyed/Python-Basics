@@ -42,13 +42,13 @@ Using your (Code) and type
 2`print(4+5)`  
 3  
 4`# Subtraction`  
-5`print(5-5)`
+5`print(5-5)`  
 6  
-7`# Multiplication`
-8`print(3*5)`
+7`# Multiplication`  
+8`print(3*5)`  
 9  
-10`# Division`
-11`print(10/2)`
+10`# Division`  
+11`print(10/2)`  
 
 Run the code and see the output  
 
