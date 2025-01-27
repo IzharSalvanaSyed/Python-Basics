@@ -63,8 +63,8 @@ Run the code and see the output
 9  
 10 `# Division`  
 11 `print(10/2)`  
-12 `9  `
-13 `0  `
+12 `9`  
+13 `0`  
 15  
 16 `5.0`  
 
