@@ -133,7 +133,7 @@ Sample
 6 `# Print out doubleintro`    
 7 `print(____)`    
 
-Answer
+Answer  
 1 `intro = "Hello! How are you?"`   
 2   
 3 `# Assign sum of intro and intro to doubleintro`   
