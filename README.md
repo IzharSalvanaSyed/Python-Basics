@@ -127,7 +127,7 @@ instructions:
 - Create a new string, intro, with the value "Hello! How are you?".  
 - Create a new boolean, is_good, with the value True.  
 
-**Script**
+**Script**  
 1 `# Create a variable half `  
 2 `half = 0.5  `  
 3  
@@ -137,7 +137,7 @@ instructions:
 7 `# Create a variable is_good `  
 8 `is_good = True  ` 
 
-**output**
+**output**  
 ` # Create a variable half`   
 ` half = 0.5`  
    
